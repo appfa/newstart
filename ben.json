@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "name": "Ben 10",
+      "isLocked": false,
+      "image": "ben10.jpg",
+      "coins": 2500,
+      "items": [
+        {
+          "name": "Omnitrix",
+          "image": "omnitrix.jpg",
+          "isLocked": false,
+          "isFavorite": true,
+          "coins": 1000
+        },
+        {
+          "name": "Four Arms",
+          "image": "four_arms.jpg",
+          "isLocked": false,
+          "isFavorite": false,
+          "coins": 500
+        },
+        {
+          "name": "Heatblast",
+          "image": "heatblast.jpg",
+          "isLocked": true,
+          "isFavorite": false,
+          "coins": 750
+        }
+      ]
+    },
+    {
+      "name": "Pokemon",
+      "isLocked": true,
+      "image": "pokemon.jpg",
+      "coins": 3000,
+      "items": [
+        {
+          "name": "Pikachu",
+          "image": "pikachu.jpg",
+          "isLocked": false,
+          "isFavorite": true,
+          "coins": 1500
+        },
+        {
+          "name": "Charizard",
+          "image": "charizard.jpg",
+          "isLocked": false,
+          "isFavorite": false,
+          "coins": 2000
+        },
+        {
+          "name": "Bulbasaur",
+          "image": "bulbasaur.jpg",
+          "isLocked": true,
+          "isFavorite": false,
+          "coins": 1000
+        }
+      ]
+    }
+  ]
+}
