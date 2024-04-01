@@ -1,8 +1,8 @@
 {
 	"istate": 1,
-	"interstitial": "	ca-app-pub-3940256099942544/1033173712",
+	"interstitial": "ca-app-pub-3940256099942544/1033173712",
 	 "opena": "ca-app-pub-3940256099942544/9257395921",
-	 "banner": "	ca-app-pub-3940256099942544/6300978111",
+	 "banner": "ca-app-pub-3940256099942544/6300978111",
 	"images": [
 "https://i.pinimg.com/236x/03/32/c1/0332c184fd2b3cd55141dec33fe77f9c.jpg",
 "https://i.pinimg.com/236x/fc/4f/f5/fc4ff58a207af7447a944256f01562de.jpg",
